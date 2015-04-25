@@ -1,0 +1,22 @@
+#makes a branch called git-notes
+git branch git-notes
+
+#shows git branchs in current directory
+git branch
+
+#swiches to git-notes branch
+git checkout git-notes
+
+#shows commits in current directory
+git log
+
+#shows status of git files in current directory
+git status
+
+#commit file and add comments
+git commit -m "comments added to git commit"
+
+
+1.  Make chages to file
+2.  git add file to Stage
+3.  git commit -m "comments added to git commit"

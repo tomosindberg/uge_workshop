@@ -1,0 +1,502 @@
+
+#change directory
+cd ~
+
+#shows current location
+pwd
+
+#pipe history into less// shows history in less view
+history | less
+
+#similar to more but cant use mouse
+history | more
+
+#shows manual of history
+man history
+
+#opens history in SublimeText
+subl history
+
+#shows all hidden files and also the .. and . directories
+ls -a
+
+#list files
+ls
+
+#lists files in uge_workshop directory
+ls uge_workshop
+
+#moves moving_around.txt to uge_workshop/ directory(have to have /)
+mv moving_around.txt uge_workshop/
+
+#renames moving_around.txt to unix_notes.txt
+mv moving_around.txt unix_notes.txt
+
+
+
+
+
+
+javascript-and-jquery-feb-2015/
+cd Downloads/
+cd .
+cd ..
+cd /
+ls ~
+cd tomo
+cd Users
+cd User
+cd Shared/
+cd ../..
+cd Desktop/
+git status
+ls -l
+cd.
+cd
+clear
+man ls
+ls -r
+-r
+ls -t
+man ?
+man
+ls -h
+cd/
+cd Library/LanguageModeling/
+cd Library/
+defaults write com.apple.finder AppleShowAllFiles YES
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config user.email
+git config user.name
+defaults write com.apple.finder AppleShowAllFiles YES.
+brew upgrade git
+git --version
+echo $PATH
+subl /etc/paths
+echo $path
+subl .config/fish/config.fish
+cd .config
+subl first.html
+subl fist.html
+subl CardDeck/
+cd repos
+subl weka.log
+which subl
+ls -l /usr/local/bin/subl
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+git remote -v
+curl -fsSL http://git.io/beJs | ruby
+nano .bash_profile
+chsh -s /usr/local/bin/fish
+echo $prompt
+whoami
+cd javascriptFunction
+brew info fish
+brew in
+fish_update_completions
+cd..
+brew -v
+brew install fish
+which brew
+brew update
+brew doctor
+brew
+ls -g
+uname -a
+uname Music/
+uname
+cd gitclass
+cd giq
+cd Repos/
+ls -al
+git push
+git commit
+git add main.js
+git add PerHourDay.js
+git add DonutShop.html
+git rm week4.Html
+git rm jquery-2.1.3.min.js
+git rm README.md
+git rm Readme.md
+rm jquery-2.1.3.min.js
+rm README.md
+git rm Objects.js
+cd Desktop/Repos/DonutShop/
+git commit
+git add style.css
+git style.css
+git add style.css
+git add
+cd DonutShop/
+cd repos/
+git push origin master
+git add .
+git rm .DS_Store -f
+git rm .DS_Store
+git satus
+cd .git
+git staus
+git rm DounutShop.html
+git rm dounutShop.html
+git st
+git add Objects.js
+git add DonutShop.html
+commit status
+git add jquery-2.1.3.min.js
+sudo
+git commit -am "Added comment in style"
+git push --set-upstream origin master
+git merge origin/master
+git fetch origin
+git branch
+git pull
+git remote add origin https://github.com/tomosindberg/DonutShop.git
+git remote
+git commit -m "intial commit"
+git add -A
+git remote add orgin https://github.com/tomosindberg/DonutShop.git
+git init
+cd Repos/DonutShop/
+git commit -a -m "Getting started on foo"
+nano README
+git config --global user.name "Tomo Sindberg"
+git config --global user.email "tsindberg@gmail.com"
+git add README
+nano README
+cat README
+cd Repos/foundation1/
+cd /..
+cd desktop
+cd HTML/
+cd `
+cd foundation1/
+git init foundation1
+man cd
+cd git
+cd des
+ls -l /etc
+nslookup codefellows.com
+nslookup google.com
+ls-l
+cd Drop\ Box/
+cd Public/
+cd desk
+cd Documents/
+git branch -D bar_feature
+git checkout master
+git log
+git checkout -b bar_feature
+get checkout -b bar_feature
+git checkout foo_feature
+subl file3
+git add file3
+get status
+git checkout foo_feature
+git branch foo_feature
+git diff c78ed 8e654
+git checkout 8e654
+rm file4
+git add file4
+add file4
+git commit -a -m "added the last file"
+git add -a -m "added the last file"
+git-credential-osxkeychain
+git show
+git commit -m "made some more changes"
+add file2
+git add file2
+git commit -m"Change file"
+git add file1
+subl file4
+subl file2
+subl file1
+touch file1
+git commit -m "Add new project files"
+touch file3
+touch file2
+git commit -a -m "Added project mission statement."
+nano readme
+git config --global user.email 'Tomo Sindberg'
+nano commit
+git add README
+cd my_really_cool_project/
+mv my_even_cooler_project my_really_cool_project
+cd my_even_cooler_project/
+git init my_even_cooler_project/
+mv my_first_repository my_even_cooler_project
+mv my_first_repository/ my_even_cooler_project
+cd my_first_repository/
+find .git
+cd de
+rm -r my_really_cool_project/
+git init
+mkdir my_really_cool_project/
+git init my_first_repository
+sudo apt-get update
+sudo
+git help
+git
+less Statement
+cd Desktop/Terminal/
+mkdir Terminal
+mkdir Git
+cd Audio\ Music\ Apps/
+cd Music/
+git config -- global user.name 'tsindberg@gmail.com'
+git config --global user.name 'Tomo Sindberg'
+brew install git
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/contents/SharedSupport/bin/subl /usr/local/bin/subl
+fish_update_completions
+fish_u
+curl -fsSL http://git.io/bejs | ruby
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+xcode-select -p
+ruby -e "$(curl -fsSL https://raw.github.com/homebrew/install/master/install)"
+terminal > Preferences
+?
+ls -l moving_around.txt
+ls -l
+ls -t
+ls -t -r
+ls
+history | less
+history less
+subl moving_around.txt
+man move
+ls moving_around.txt
+less moving_around.txt
+history > moving_around.txt
+cd ~
+pwd
+history | more
+man history
+subl history
+history 5
+history 50
+history 100
+history -r
+history
+ls -a
+javascript-and-jquery-feb-2015/
+cd Downloads/
+cd .
+cd ..
+cd /
+ls ~
+cd tomo
+cd Users
+cd User
+cd Shared/
+cd ../..
+cd Desktop/
+git status
+cd.
+cd
+clear
+man ls
+ls -r
+-r
+man ?
+man
+ls -h
+cd/
+cd Library/LanguageModeling/
+cd Library/
+defaults write com.apple.finder AppleShowAllFiles YES
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config user.email
+git config user.name
+defaults write com.apple.finder AppleShowAllFiles YES.
+brew upgrade git
+git --version
+echo $PATH
+subl /etc/paths
+echo $path
+subl .config/fish/config.fish
+cd .config
+subl first.html
+subl fist.html
+subl CardDeck/
+cd repos
+subl weka.log
+which subl
+ls -l /usr/local/bin/subl
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+git remote -v
+curl -fsSL http://git.io/beJs | ruby
+nano .bash_profile
+chsh -s /usr/local/bin/fish
+echo $prompt
+whoami
+cd javascriptFunction
+brew info fish
+brew in
+fish_update_completions
+cd..
+brew -v
+brew install fish
+which brew
+brew update
+brew doctor
+brew
+ls -g
+uname -a
+uname Music/
+uname
+cd gitclass
+cd giq
+cd Repos/
+ls -al
+git push
+git commit
+git add main.js
+git add PerHourDay.js
+git add DonutShop.html
+git rm week4.Html
+git rm jquery-2.1.3.min.js
+git rm README.md
+git rm Readme.md
+rm jquery-2.1.3.min.js
+rm README.md
+git rm Objects.js
+cd Desktop/Repos/DonutShop/
+git commit
+git add style.css
+git style.css
+git add style.css
+git add
+cd DonutShop/
+cd repos/
+git push origin master
+git add .
+git rm .DS_Store -f
+git rm .DS_Store
+git satus
+cd .git
+git staus
+git rm DounutShop.html
+git rm dounutShop.html
+git st
+git add Objects.js
+git add DonutShop.html
+commit status
+git add jquery-2.1.3.min.js
+sudo
+git commit -am "Added comment in style"
+git push --set-upstream origin master
+git merge origin/master
+git fetch origin
+git branch
+git pull
+git remote add origin https://github.com/tomosindberg/DonutShop.git
+git remote
+git commit -m "intial commit"
+git add -A
+git remote add orgin https://github.com/tomosindberg/DonutShop.git
+git init
+cd Repos/DonutShop/
+git commit -a -m "Getting started on foo"
+nano README
+git config --global user.name "Tomo Sindberg"
+git config --global user.email "tsindberg@gmail.com"
+git add README
+nano README
+cat README
+cd Repos/foundation1/
+cd /..
+cd desktop
+cd HTML/
+cd `
+cd foundation1/
+git init foundation1
+man cd
+cd git
+cd des
+ls -l /etc
+nslookup codefellows.com
+nslookup google.com
+ls-l
+cd Drop\ Box/
+cd Public/
+cd desk
+cd Documents/
+git branch -D bar_feature
+git checkout master
+git log
+git checkout -b bar_feature
+get checkout -b bar_feature
+git checkout foo_feature
+subl file3
+git add file3
+get status
+git checkout foo_feature
+git branch foo_feature
+git diff c78ed 8e654
+git checkout 8e654
+rm file4
+git add file4
+add file4
+git commit -a -m "added the last file"
+git add -a -m "added the last file"
+git-credential-osxkeychain
+git show
+git commit -m "made some more changes"
+add file2
+git add file2
+git commit -m"Change file"
+git add file1
+subl file4
+subl file2
+subl file1
+touch file1
+git commit -m "Add new project files"
+touch file3
+touch file2
+git commit -a -m "Added project mission statement."
+nano readme
+git config --global user.email 'Tomo Sindberg'
+nano commit
+git add README
+cd my_really_cool_project/
+mv my_even_cooler_project my_really_cool_project
+cd my_even_cooler_project/
+git init my_even_cooler_project/
+mv my_first_repository my_even_cooler_project
+mv my_first_repository/ my_even_cooler_project
+cd my_first_repository/
+find .git
+cd de
+rm -r my_really_cool_project/
+git init
+mkdir my_really_cool_project/
+git init my_first_repository
+sudo apt-get update
+sudo
+git help
+git
+less Statement
+cd Desktop/Terminal/
+mkdir Terminal
+mkdir Git
+cd Audio\ Music\ Apps/
+cd Music/
+git config -- global user.name 'tsindberg@gmail.com'
+git config --global user.name 'Tomo Sindberg'
+brew install git
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/contents/SharedSupport/bin/subl /usr/local/bin/subl
+fish_update_completions
+fish_u
+curl -fsSL http://git.io/bejs | ruby
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+xcode-select -p
+ruby -e "$(curl -fsSL https://raw.github.com/homebrew/install/master/install)"
+terminal > Preferences
+?

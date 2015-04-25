@@ -32,8 +32,11 @@ mv moving_around.txt uge_workshop/
 #renames moving_around.txt to unix_notes.txt
 mv moving_around.txt unix_notes.txt
 
+#adds file to Git
+git init
 
-
+#adds comment to git file
+git commit -m "I made changes to this file"
 
 
 
